@@ -29,12 +29,6 @@ The Student Exam Performance Predictor project is developed for educational purp
 - Provides insights into the influence of gender, ethnicity, parental level of education, lunch type, and test preparation course on student performance.
 - User-friendly interface for inputting student information and obtaining predictions.
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/skprasad117/Predicting-Student-Performance-Using-Machine-Learning.git`
-2. Navigate to the project directory: `cd Predicting-Student-Performance-Using-Machine-Learning`
-3. Install the required dependencies: `pip install -r requirements.txt`
-
 ## Usage
 
 1. Run the application: `python app.py`
@@ -88,7 +82,7 @@ The project has the following structure:
 - `templates`: This directory contains HTML templates used in the web application.
 
 ## Author
-Sanjay Kumar Prasad, You can also visit my GitHub profile: @skprasad117
+Aman Raj, You can also visit my GitHub profile: https://github.com/Amanraj0323
 
 Feel free to reach out with any questions or feedback regarding the project.
 
