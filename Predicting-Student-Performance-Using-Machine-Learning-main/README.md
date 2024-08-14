@@ -31,9 +31,8 @@ The Student Exam Performance Predictor project is developed for educational purp
 
 ## Usage
 
-1. Run the application: `python app.py`
-2. Access the web interface in your browser at `http://localhost:5000`
-3. Fill in the student information and submit the form to obtain the predicted math score.
+1. Run the application: `streamlit app.py`
+2. Fill in the student information and submit the form to obtain the predicted math score.
 
 ## Dataset
 
